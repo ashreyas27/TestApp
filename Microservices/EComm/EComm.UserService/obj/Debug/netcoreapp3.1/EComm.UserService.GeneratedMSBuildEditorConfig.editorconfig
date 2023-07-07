@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EComm.UserService
+build_property.ProjectDir = C:\Training\Microservices\EComm\EComm.UserService\
